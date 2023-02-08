@@ -1,0 +1,21 @@
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\bin\Debug\net6.0-windows\Krestic and zero.exe
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\bin\Debug\net6.0-windows\Krestic and zero.deps.json
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\bin\Debug\net6.0-windows\Krestic and zero.runtimeconfig.json
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\bin\Debug\net6.0-windows\Krestic and zero.dll
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\bin\Debug\net6.0-windows\Krestic and zero.pdb
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.csproj.AssemblyReference.cache
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero_MarkupCompile.cache
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero_MarkupCompile.lref
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.g.resources
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.AssemblyInfoInputs.cache
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.AssemblyInfo.cs
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.csproj.CoreCompileInputs.cache
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.dll
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\refint\Krestic and zero.dll
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.pdb
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\Krestic and zero.genruntimeconfig.cache
+C:\Users\Fantasm\source\repos\Krestic and zero\Krestic and zero\obj\Debug\net6.0-windows\ref\Krestic and zero.dll
